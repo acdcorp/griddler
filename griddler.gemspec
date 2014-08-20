@@ -3,7 +3,7 @@ $LOAD_PATH.push File.expand_path('../lib', __FILE__)
 require 'griddler/version'
 
 Gem::Specification.new do |s|
-  s.name        = 'griddler'
+  s.name        = 'griddler-acd'
   s.version     = Griddler::VERSION
   s.authors     = ['Caleb Thompson', 'Joel Oliveira', 'thoughtbot', 'Swift']
   s.email       = ['cjaysson@gmail.com', 'joel@thoughtbot.com', 'theycallmeswift@gmail.com']
